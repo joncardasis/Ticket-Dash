@@ -1,0 +1,93 @@
+{"Questions": {
+    "Question1":{
+        "Question": "What animal did the Spartan King as a young boy kill to survive out in the wild? (300)",
+        "AnswerA": "Lion",
+        "AnswerB": "Wolf",
+        "AnswerC": "Boar",
+        "AnswerD": "Bear",
+        "CorrectAnswer": 1
+    },
+    
+    "Question2":{
+        "Question": "The three casinos that Danny plans to rob are the Bellagio, the MGM Grand, and? (Ocean’s 11)",
+        "AnswerA": "The Luxor",
+        "AnswerB": "The Mirage",
+        "AnswerC": "The Wynn",
+        "AnswerD": "The Palms",
+        "CorrectAnswer": 1
+    },
+    
+    "Question3":{
+        "Question": "How many dwarves accompany Bilbo and Gandalf on the adventure? (The Hobbit)",
+        "AnswerA": "Ten",
+        "AnswerB": "Eleven",
+        "AnswerC": "Twelve",
+        "AnswerD": "Thirteen",
+        "CorrectAnswer": 3
+    },
+    
+    "Question4":{
+        "Question": "Where does it take place? (Caddyshack)",
+        "AnswerA": "The Bushwood Country Club",
+        "AnswerB": "The Bushwick Country Club",
+        "AnswerC": "The Bushwipe Country Club",
+        "AnswerD": "The Bushwild Country Club",
+        "CorrectAnswer": 0
+    },
+    
+    "Question5":{
+        "Question": "Which German Actress Played Helen of Troy? (Troy)",
+        "AnswerA": "Siri Svegler",
+        "AnswerB": "Diane Kruger",
+        "AnswerC": "Tanja Tzarovska",
+        "AnswerD": "Saffron Burrows",
+        "CorrectAnswer": 1
+    },
+    
+    "Question6":{
+        "Question": "What is Scrappy Doo’s middle name? (Scooby-Doo)",
+        "AnswerA": "Cornelius",
+        "AnswerB": "Arntonio",
+        "AnswerC": "Maximus",
+        "AnswerD": "Henry",
+        "CorrectAnswer": 0
+    },
+    "Question7":{
+        "Question": "What does Brooks Hatlen carve into the wood before hanging himself? (Shawshank Redemption)",
+        "AnswerA": "“Told you so.”",
+        "AnswerB": "“I regret nothing.”",
+        "AnswerC": "“See you later.”",
+        "AnswerD": "“Brooks was here.”",
+        "CorrectAnswer": 3
+    },
+    
+    "Question8":{
+        "Question": "What year was it released? (The Goonies)",
+        "AnswerA": "1979",
+        "AnswerB": "1981",
+        "AnswerC": "1985",
+        "AnswerD": "1995",
+        "CorrectAnswer": 2
+    },
+    
+    "Question9":{
+        "Question": "What piece of advice does the Joker write on the side of a truck? (The Dark Knight)",
+        "AnswerA": "“An apple a day keeps the mice away.”",
+        "AnswerB": "“Where there is a kill, there is a way.”",
+        "AnswerC": "“The gun is mightier than the sword.”",
+        "AnswerD": "“Slaughter is the best medicine.”",
+        "CorrectAnswer": 3
+    },
+    
+    "Question10":{
+        "Question": "What present did Pooh get from Piglet? (Winnie the Pooh)",
+        "AnswerA": "Music box",
+        "AnswerB": "Honey",
+        "AnswerC": "Berries",
+        "AnswerD": "A smile",
+        "CorrectAnswer": 0
+    }
+    
+    
+
+}}
