@@ -1,0 +1,64 @@
+{"Collision Objects": {
+    "Walls":{
+        "Wall1":{
+            "position": [33,0],
+            "size": [63,33]
+        },
+        
+        "Wall2":{
+            "position": [256,0],
+            "size": [16,336]
+        },
+        
+        "Wall3":{
+            "position": [128,0],
+            "size": [32,33]
+        },
+        
+        "Wall4":{
+            "position": [0,57],
+            "size": [46,47]
+        },
+        "Wall5":{
+            "position": [0,106],
+            "size": [22,51]
+        },
+        "Wall6":{
+            "position": [184,67],
+            "size": [8,90]
+        },
+        "Wall7":{
+            "position": [-16,0],
+            "size": [16,192]
+        },
+        "Wall8":{
+            "position": [191,0],
+            "size": [16,192]
+        },
+        "Wall9":{
+            "position": [-16,192],
+            "size": [16,192]
+        },
+        "Wall10":{
+            "position": [158,0],
+            "size": [34,33]
+        },
+        "Wall11":{
+            "position": [0,191],
+            "size": [192,16]
+        }
+    },
+    "Doors":{
+        "Door1":{
+            "position": [0,0],
+            "size": [33,33],
+            "name": "School"
+        },
+	   "Door2":{
+            "position": [96,0],
+            "size": [33,33],
+            "name": "Dungeon"
+        }
+
+    }
+}}

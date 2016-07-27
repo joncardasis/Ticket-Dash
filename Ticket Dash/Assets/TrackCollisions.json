@@ -1,0 +1,79 @@
+{"Collision Objects": {
+    "Walls":{
+        "Wall1":{
+            "position": [0,0],
+            "size": [1792,166]
+        },"Wall2":{
+            "position": [0,608],
+            "size": [1792,32]
+        },"Wall3":{
+            "position": [357,230],
+            "size": [1151,250]
+        },"Wall4":{
+            "position": [0,164],
+            "size": [165,444]
+        },"Wall5":{
+            "position": [1700,164],
+            "size": [92,444]
+        },"Wall6":{
+            "position": [165,166],
+            "size": [32,125]
+        },"Wall7":{
+            "position": [165,419],
+            "size": [32,189]
+        },"Wall8":{
+            "position": [197,483],
+            "size": [30,125]
+        },"Wall9":{
+            "position": [227,512],
+            "size": [35,96]
+        },"Wall10":{
+            "position": [262,544],
+            "size": [62,64]
+        },"Wall11":{
+            "position": [324,576],
+            "size": [32,32]
+        },"Wall12":{
+            "position": [197,166],
+            "size": [64,61]
+        },"Wall13":{
+            "position": [261,166],
+            "size": [95,32]
+        },"Wall14":{
+            "position": [197,227],
+            "size": [32,32]
+        },"Wall15":{
+            "position": [1604,483],
+            "size": [97,125]
+        },"Wall16":{
+            "position": [1541,544],
+            "size": [64,64]
+        },"Wall17":{
+            "position": [1477,576],
+            "size": [64,32]
+        },"Wall18":{
+            "position": [1636,166],
+            "size": [65,93]
+        },"Wall19":{
+            "position": [1508,166],
+            "size": [128,32]
+        },"Wall20":{
+            "position": [1604,198],
+            "size": [32,32]
+        },"Wall21":{
+            "position": [1668,259],
+            "size": [32,32]
+        },"Wall22":{
+            "position": [1668,419],
+            "size": [32,64]
+        }
+    },
+    "Doors":{
+        "Door1":{
+            "position": [1509,324],
+            "size": [30,30],
+            "name": "School"
+        }
+	
+    },
+}}

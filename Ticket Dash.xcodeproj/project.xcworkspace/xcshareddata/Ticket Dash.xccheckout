@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>63A3AF65-717D-45F9-B53F-3EA458845962</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Ticket Dash</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D414F1C732B8739ADA5399C999143551C78A55EC</key>
+		<string>https://bitbucket.org/joncardasis/ticket-dash.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Ticket Dash.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D414F1C732B8739ADA5399C999143551C78A55EC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/joncardasis/ticket-dash.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D414F1C732B8739ADA5399C999143551C78A55EC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D414F1C732B8739ADA5399C999143551C78A55EC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Ticket%20Dash</string>
+		</dict>
+	</array>
+</dict>
+</plist>
