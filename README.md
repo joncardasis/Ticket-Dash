@@ -1,10 +1,10 @@
 ![Ticket Dash Logo](/Screenshots/AppIcon-sm.png?raw=true)
 
 # Ticket-Dash
-Ticket Dash is a fast paced quest-based game built on the SpriteKit framework. Developed for Catholic Central High School's Drive Event, the game takes place in the high school where the student (player) must collect as many tickets and finish as many quests in the allotted time.
+Ticket Dash is a fast paced quest-based game built on the SpriteKit framework. Developed for Catholic Central High School's 2015 Drive Event, the game takes place in the high school where the student (player) must collect as many tickets and finish as many quests in the allotted time.
 
 ## Preface
-I almost didn't upload this project. Learning game development for the first time and having to create graphics and develop a game in under a month, keeping the code neat began to suffer. While the API calls fairly organized, the gameplay was all in one class. I decided to upload this project at this point (a year and a half later - I did not have version control at the time of the project) because under such confinements, I am proud of the final user experience and what myself and my project manager accomplished under such a short deadline. You can read the full story below.
+I almost didn't upload this project. Learning game development for the first time and having to create graphics and develop a game in under a month, keeping the code neat began to suffer. While the API calls fairly organized, the gameplay was all in one class. I decided to upload this project at the point of writing this (a year and a half later - I did not have version control at the time of the project) because under such confinements, I am proud of the final user experience and what myself and my project manager accomplished under such a short deadline. You can read the full story below.
 
 ![Main Menu](/Screenshots/Main_Menu.png?raw=true)
 ![Gameplay](/Screenshots/Game_Play_Chat.png?raw=true)
