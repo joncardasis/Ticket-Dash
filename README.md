@@ -1,6 +1,6 @@
 ![Ticket Dash Logo](/Screenshots/AppIcon-sm.png?raw=true)
 
-# Ticket-Dash
+# Ticket Dash
 Ticket Dash is a fast paced quest-based game built on the SpriteKit framework. Developed for Catholic Central High School's 2015 Drive Event, the game takes place in the high school where the student (player) must collect as many tickets and finish as many quests in the allotted time.
 
 ## Preface
@@ -62,3 +62,7 @@ In the end, I am happy with how the gameplay turned out for the extremely short 
 
 ### Homage
 If you run the source you'll notice the intro screen will flash between the game logo and a starry image of the number "33". Thirty three was the jersey number of David Widzinski, a fellow Catholic Central brother who had passed during our time in high school. Scott and I wanted to include a small homage to our fellow Catholic Central brother so we decided to include this in our design in the final days before release.
+
+
+## License
+Ticket Dash is available under the MIT license. See the LICENSE file for more info.
