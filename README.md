@@ -65,4 +65,4 @@ If you run the source you'll notice the intro screen will flash between the game
 
 
 ## License
-Ticket Dash is available under the MIT license. See the LICENSE file for more info.
+Ticket Dash is available under the GNU GPLv3 license. See the LICENSE file for more info.
