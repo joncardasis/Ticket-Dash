@@ -6,8 +6,7 @@ Ticket Dash is a fast paced quest-based game built on the SpriteKit framework. D
 ## Preface
 I almost didn't upload this project. Learning game development for the first time and having to create graphics and develop a game in under a month, keeping the code neat began to suffer. While the API calls fairly organized, the gameplay was all in one class. I decided to upload this project at the point of writing this (a year and a half later - I did not have version control at the time of the project) because under such confinements, I am proud of the final user experience and what myself and my project manager accomplished under such a short deadline. You can read the full story below.
 
-![Main Menu](/Screenshots/Main_Menu.png?raw=true)
-![Gameplay](/Screenshots/Game_Play_Chat.png?raw=true)
+<img src="/Screenshots/Main_Menu.png?raw=true" width="400"/> <img src="/Screenshots/Game_Play_Chat.png?raw=true" width="400"/>
 
 ## Storytime!
 A call came in from a friend, Scott, a few days after my freshman winter semester had started. He was still attending my alma mater, Detroit Catholic Central High School, at the time. He came to me with an exciting idea for an RPG iOS game where the main characters were teachers at the school. I loved the humor behind the idea and we spent hours on the phone batting ideas back and forth. Soon we decided to begin the project with myself as the sole developer and Scott was the PM of the project. We ended up splitting the graphic development 50/50. I was excited to begin, then he told me the deadline...we had a month to complete the project.
